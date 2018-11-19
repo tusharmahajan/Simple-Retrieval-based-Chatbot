@@ -1,6 +1,8 @@
 # Simple-Retrieval-based-Chatbot
 used corpus: https://en.wikipedia.org/wiki/Chatbot
+
 used Python 2.x
+
 A knowledge of  libraires scikit library and NLTK is must.
 
 ## Text Pre- Processing with NLTK
